@@ -32,7 +32,7 @@
 
 
 ### :fire: My Stats :
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=depak379mandal&show_icons=true&theme=blueberry&locale=en&layout=compact" alt="Deepak Mandal Github stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=depak379mandal&show_icons=true&theme=blueberry&locale=en&layout=compact" alt="Saral Shrivastava Github stats" />
 
 ---
 
